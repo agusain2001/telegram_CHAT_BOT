@@ -1,0 +1,7 @@
+python-telegram-bot
+beautifulsoup4
+requests
+nltk
+pandas
+openai
+python-dotenv
